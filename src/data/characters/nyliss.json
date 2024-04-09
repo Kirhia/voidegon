@@ -45,6 +45,18 @@
       {
         "name": "Tomo de Hechizos",
         "quantity": 1,
+<<<<<<< HEAD
+        "rarity": "raro"
+      },
+      {
+        "name": "Poción de Curación",
+        "type": "poción",
+        "description": "Una poción que restaura 2d4 + 2 puntos de salud.",
+        "value": "20pc",
+        "quantity": 1,
+        "rarity": "común"
+      },
+=======
         "rarity": "raro",
         "description": "Un libro encantado que contiene una selección de hechizos útiles."
       },
@@ -53,12 +65,14 @@
         "quantity": 1,
         "rarity": "común",
         "description": "Una botella de tinta de color negro."
+        "img": "https://content.gitbook.com/content/nPydRNT4JAk1kEx9MDMd/blobs/h9cHbRAVVGfPx92jkvpj/Potion%203%20WITHOUT%20F%20HD%20(1).gif"
       },
       {
         "name": "Pluma para escribir",
         "quantity": 1,
         "rarity": "común",
         "description": "Una pluma utilizada para escribir."
+        "img": "https://i.pinimg.com/originals/1b/83/32/1b83320634fa84a29248f24ed5725b02.jpg"
       },
       {
         "name": "Hierro pulverizado",
@@ -126,6 +140,7 @@
         "rarity": "común",
         "description": "Una espada vieja y oxidada hecha de cobre."
       }
+>>>>>>> eabf62d4f61d9c800ce78a9402541ff0de3754c4
     ]
   }
 ]
